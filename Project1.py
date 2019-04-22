@@ -10,9 +10,4 @@ print(N)
 def five(N):
      for i in range(1,1000):
          for j in range(1,1000):
-             
-#
-# if five(N):
-#     is int
-#     return value
-# print(five(n))
+             if 
