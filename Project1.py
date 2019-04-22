@@ -13,3 +13,5 @@ N3 = np.arange(3,1001,3)
 #Sums the two arrays
 N = np.sum(N5)+np.sum(N3)
 print(N)
+
+#Solution: 267333
